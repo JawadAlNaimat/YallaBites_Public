@@ -13,9 +13,9 @@
 - **Customize Your Meal** — Select sizes, add modifiers, and include special notes
 - **Real-Time Cart** — Review items, apply promo codes, and see your total before checkout
 - **Multiple Payment Options** — Cash on delivery, card, Google Pay, or Apple Pay
-- **Order Tracking** — Follow your order from kitchen to doorstep
+- **Order Tracking** — Follow your order from the kitchen to the doorstep
 - **Favorites** — Save your go-to items for quick reordering
-- **Push Notifications** — Get alerted on order status updates and promotions
+- **Push Notifications** — Get alerted to order status updates and promotions
 
 ### For Drivers
 

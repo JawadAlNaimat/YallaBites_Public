@@ -63,9 +63,8 @@ Coming soon to the App Store and Google Play.
 
 ## Contact
 
-- **Developer**: Hakeem Ehs
+- **Developer**: Jawad Al Naimat
+- **Mobile Number**: +962 79 1448010
 - **Support**: support@yallabite.com
 
 ---
-
-**Yalla Bite** — *طعام لذيذ، توصيل طازج*

@@ -77,8 +77,17 @@ Coming soon to the App Store and Google Play.
 
 ## Contact
 
-- **Developer**: Jawad Al Naimat
-- **Mobile Number**: +962 79 1448010
-- **Support**: jawad.al.naimat@gmail.com
+<p align="center">
+  <b>Developer:</b> Jawad Al Naimat <br><br>
+  <a href="tel:+962791448010">
+    <img src="https://img.shields.io/badge/Call%20Me-+962%2079%201448010-blue?style=for-the-badge&logo=phone" alt="Mobile Number">
+  </a>
+  <a href="https://wa.me/962791448010" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:jawad.al.naimat@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Support-jawad.al.naimat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Support">
+  </a>
+</p>
 
 ---

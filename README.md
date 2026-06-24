@@ -1,5 +1,7 @@
 # Yalla Bite — Delicious Food, Delivered Fresh
 
+![YallaBites App](assets/YallaBites.png)
+
 **Yalla Bite** is a full-featured food ordering platform that connects customers with their favorite restaurants through a seamless, modern mobile experience. Available in English and Arabic.
 
 > "Yalla Bite is your go-to app for ordering delicious food from your favorite restaurants. Fresh, fast, and convenient."

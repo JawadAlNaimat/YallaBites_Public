@@ -79,6 +79,6 @@ Coming soon to the App Store and Google Play.
 
 - **Developer**: Jawad Al Naimat
 - **Mobile Number**: +962 79 1448010
-- **Support**: support@yallabite.com
+- **Support**: jawad.al.naimat@gmail.com
 
 ---

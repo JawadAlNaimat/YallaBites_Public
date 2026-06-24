@@ -50,7 +50,19 @@
 
 ## Screenshots
 
-*(Screenshots go here)*
+<p align="center">
+  <img src="assets/1.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/2.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/3.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/4.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/5.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/6.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/7.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/8.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/9.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/10.png" alt="YallaBites Marketing Asset" width="150">
+  <img src="assets/11.png" alt="YallaBites Marketing Asset" width="150">
+</p>
 
 ## Supported Platforms
 
